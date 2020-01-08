@@ -1,0 +1,6 @@
+language: node_js
+env:
+  global:
+    secure: SnRvu7gpq/mn7hF/+pLKiz9GTr21zyGJDcp4LBynFovhtBvnb+ecXDe/RsnMR4LWDSEMm1Z5RfgNlPTgvm5MK/gtaQGUjpUP6pxXSvQ5s1vOsPV6AEko4Pv22SVcm88MQV97dZCgXoXY/vjAzb6dxObp4d3MT5L2HBWzerW5+O5VsBeAo84wrIqaDhOW0pqsXZVmAgb8UHZeLpPcYdNatoMgG+OT/sRm+x/+R3l+Kwvxv6IQ/hDTynifC+bbOAWB+YMCsrIGIf5wcBn84F8jezxLHQ/jylIPVl/MMiM/MabhGZoRJ7fx/0EcOYIItolCatWDi5+42D4doKuMOBHbOeGHL3H6O1aPyLp9La1QiY0ncQsWT/ISINVKLVKWdQc7TBMB4BWIJtmCB+h6fWax7SF5oIXDawzz1uCVVC6AiKQSKGSnJnHm5f750DycMELYon2vp4ua/+ALsIvbu/u8lfANb4+bfZNNQr4JqsRb+2B0IHjR90cju8/34JjZ/l81Nk9dtamWSIVIKSoksJiitSRas9yLWfinuj9hxqSXYg5IEGnTxApH4+EqW5KPUa8+NYjeyF2jjjl43CQVTw+mKwxx1bCboH8rD9d+LCovES6fX2+TukBT9fZgzA+MV2jLGz24xDAO9jzy7DlOxty3zLq6QsKn43LTzjfO5j+3bf4=
+
+script: npm run screener-storybook
